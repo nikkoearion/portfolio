@@ -1,0 +1,14 @@
+{
+	"painting": [
+		{
+			"image": "https://cdn.rawgit.com/nikkoearion/portfolio/0a74016fedd513719a376fade9d64035533bc385/images/01.jpg",
+			"name": "01",
+			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.rawgit.com/nikkoearion/portfolio/b39f8b75b94178d294743af89f9eb444234e1241/images/09.jpg",
+			"name": "09",
+			"@type": "Painting"
+		}
+	]
+}
